@@ -29,3 +29,7 @@ Brown Wilson, C. (2017). Caring for people with dementia : a shared approach. 
 ## uMoDT: an unobtrusive multi-occupant detection (2020)
 
 Razzaq, M. A., Quero, J. M., Cleland, I., Nugent, C., Akhtar, U., Bilal, H. S. M., & Rehman, U. U. (2020). uMoDT: an unobtrusive multi-occupant detection and tracking using robust Kalman filter for real-time activity recognition. Multimedia Systems, 26(5), 553-569. [doi](https://doi.org/10.1007/s00530-020-00664-7). [uMoDT](uMoDT.pdf).
+
+## Semi-hard voting combiner to ensemble multi-class probabilistic classifiers (2021)
+
+Delgado, R. (2021). A semi-hard voting combiner scheme to ensemble multi-class probabilistic classifiers. Applied Intelligence: The International Journal of Research on Intelligent Systems for Real Life Complex Problems, 1. [doi](https://doi.org/10.1007/s10489-021-02447-7).[SemihardVoting](SemihardVoting.pdf).
