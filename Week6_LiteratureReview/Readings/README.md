@@ -37,3 +37,7 @@ Delgado, R. (2021). A semi-hard voting combiner scheme to ensemble multi-class p
 ## Understand and Control Complexity in Cyber-Physical Systems by Analyzing Complexity Drivers (2021)
 
 Riesener, M., Dolle, C., Keuper, A., & Schuh, G. (2021). Understand and Control Complexity in Cyber-Physical Systems by Analyzing Complexity Drivers. 2021 4th IEEE International Conference on Industrial Cyber-Physical Systems (ICPS), Industrial Cyber-Physical Systems (ICPS), 2021 4th IEEE International Conference On, 255–260. [doi](https://doi.org/10.1109/ICPS49255.2021.9468255). [CPS_Complexity](CPS_Complexity.pdf).
+
+## CPS in Healthcare (2020)
+
+Amin, S., Salahuddin, T., & Bouras, A. (2020). Cyber Physical Systems and Smart Homes in Healthcare: Current State and Challenges. 2020 IEEE International Conference on Informatics, IoT, and Enabling Technologies (ICIoT), Informatics, IoT, and Enabling Technologies (ICIoT), 2020 IEEE International Conference On, 302–309. [doi](https://doi.org/10.1109/ICIoT48696.2020.9089638). [CPS_CurrentState](CPS_CurrentState.pdf).
