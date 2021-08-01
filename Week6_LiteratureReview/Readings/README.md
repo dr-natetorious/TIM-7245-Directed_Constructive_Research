@@ -33,3 +33,7 @@ Razzaq, M. A., Quero, J. M., Cleland, I., Nugent, C., Akhtar, U., Bilal, H. S. M
 ## Semi-hard voting combiner to ensemble multi-class probabilistic classifiers (2021)
 
 Delgado, R. (2021). A semi-hard voting combiner scheme to ensemble multi-class probabilistic classifiers. Applied Intelligence: The International Journal of Research on Intelligent Systems for Real Life Complex Problems, 1. [doi](https://doi.org/10.1007/s10489-021-02447-7).[SemihardVoting](SemihardVoting.pdf).
+
+## Understand and Control Complexity in Cyber-Physical Systems by Analyzing Complexity Drivers (2021)
+
+Riesener, M., Dolle, C., Keuper, A., & Schuh, G. (2021). Understand and Control Complexity in Cyber-Physical Systems by Analyzing Complexity Drivers. 2021 4th IEEE International Conference on Industrial Cyber-Physical Systems (ICPS), Industrial Cyber-Physical Systems (ICPS), 2021 4th IEEE International Conference On, 255–260. [doi](https://doi.org/10.1109/ICPS49255.2021.9468255). [CPS_Complexity](CPS_Complexity.pdf).
