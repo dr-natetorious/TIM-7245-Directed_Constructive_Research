@@ -41,3 +41,7 @@ Riesener, M., Dolle, C., Keuper, A., & Schuh, G. (2021). Understand and Control 
 ## CPS in Healthcare (2020)
 
 Amin, S., Salahuddin, T., & Bouras, A. (2020). Cyber Physical Systems and Smart Homes in Healthcare: Current State and Challenges. 2020 IEEE International Conference on Informatics, IoT, and Enabling Technologies (ICIoT), Informatics, IoT, and Enabling Technologies (ICIoT), 2020 IEEE International Conference On, 302–309. [doi](https://doi.org/10.1109/ICIoT48696.2020.9089638). [CPS_CurrentState](CPS_CurrentState.pdf).
+
+## A Review on Cyber-Physical Systems: Models and Architectures (2020)
+
+Aguida, M. A., Ouchani, S., & Benmalek, M. (2020). A Review on Cyber-Physical Systems: Models and Architectures. 2020 IEEE 29th International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE), Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE), 2020 IEEE 29th International Conference on, WETICE, 275–278. [doi](https://doi.org/10.1109/WETICE49692.2020.00060). [CPS_Architectures](CPS_Architectures.pdf).
